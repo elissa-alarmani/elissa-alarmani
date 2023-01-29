@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elissa-alarmani
-- 👀 I’m interested in create new projects
+- 👀 I’m interested in creating new personal projects
 - 🌱 I’m currently learning MERN stack 
 - 📫 How to reach me email elissa1327@gmail.com
 
