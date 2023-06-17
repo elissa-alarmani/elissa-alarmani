@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elissa-alarmani
-- 👀 I’m interested in creating new personal projects
-- 🌱 I’m currently learning MERN stack 
-- 📫 How to reach me email elissa1327@gmail.com
+- 👀 I’m interested in creating new personal projects 
+- 📫 How to reach me email alarmani.e@northeastern.edu
 
 <!---
 elissa-alarmani/elissa-alarmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
